@@ -1,0 +1,8 @@
+9fans.net/go v0.0.2 h1:RYM6lWITV8oADrwLfdzxmt8ucfW6UtP9v1jg4qAbqts=
+9fans.net/go v0.0.2/go.mod h1:lfPdxjq9v8pVQXUMBCx5EO5oLXWQFlKRQgs1kEkjoIM=
+github.com/fhs/9fans-go v0.0.0-fhs.20200606 h1:kwqns/76paQLNLDx9I5UFkFG1z1tSqHq8a3j/I0kLr4=
+github.com/fhs/9fans-go v0.0.0-fhs.20200606/go.mod h1:9PelHyep+qBAEyYdGnqAa66ZGjWE0L8EJP+GIDz8p7M=
+github.com/lionkov/go9p v0.0.0-20190125202718-b4200817c487 h1:jmumGkeBN64JTR+Q4A6/Ed+tCGKZjQxyvbji3YyNF0E=
+github.com/lionkov/go9p v0.0.0-20190125202718-b4200817c487/go.mod h1:Nbrxd4FljESFB/bUvzT5xm1VNO2VfzMKSIv4L++4J4U=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
